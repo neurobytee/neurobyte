@@ -32,3 +32,58 @@ Upload PDFs or datasets → Ask questions → Get accurate context-aware replies
 ## Experimental Projects (Inspired by Big Tech Labs)
 
 These are based on tools/ideas under development in leading companies, often not yet public:
+
+### 5. Auto-Dev Copilot (Like Amazon CodeWhisperer)
+An in-browser coding assistant that auto-suggests boilerplate code and completes functions based on context.  
+**Tech**: TypeScript, Monaco Editor, GPT-4 API, Codex
+
+### 6. Task-Aware AI Agent (Inspired by Microsoft's AutoGen)
+An agent that auto-creates sub-agents for coding, testing, and documentation based on input.  
+**Tech**: LangChain, Python, Multi-agent workflow, OpenAI Functions
+
+### 7. Smart Interview Question Generator
+Takes job description and resume → Generates company-specific technical + behavioral questions.  
+**Tech**: Python, NLP, Prompt Engineering, Streamlit
+
+### 8. Time-Tracking CLI Tool (Internal Tools Style)
+A simple CLI app to log time, auto-summarize tasks, and generate reports. Think Linear × GitHub activity tracker.  
+**Tech**: Go / Rust, SQLite, Git CLI APIs
+
+### 9. Feedback-Driven UI Generator (Meta AI Internal Research)
+Text → Working React components with minimal design + logic based on user intent.  
+**Tech**: LLMs + TailwindCSS + React + Framer Motion
+
+### 10. Voice-Based Code Navigator (Experimental Dev Tool)
+Navigate your codebase using voice commands like “jump to function X” or “search error logs”.  
+**Tech**: Electron + Whisper ASR + Tree-sitter
+
+---
+
+## Tech Stack
+
+- **Languages**: Python, JavaScript, TypeScript, SQL  
+- **Backend**: Node.js, Express, Django, FastAPI  
+- **Frontend**: React, TailwindCSS, Streamlit  
+- **Databases**: PostgreSQL, MongoDB, Redis, SQLite  
+- **Dev Tools**: Docker, GitHub Actions, Swagger, Postman  
+- **AI Tools**: OpenAI API, LangChain, spaCy, ChromaDB
+
+---
+
+## Goals
+
+- Build a strong AI + backend portfolio targeting MNC-level developer roles
+- Learn by building tools I wish existed
+- Apply to SDE/ML/Backend internships and full-time roles at product-based companies
+
+---
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- Portfolio: [your-portfolio.site](https://your-portfolio.site)  
+- Email: your.email@example.com
+
+---
+
+> *"I believe the best way to learn is by building things that matter."*
