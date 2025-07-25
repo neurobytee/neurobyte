@@ -1,89 +1,108 @@
 # neurobyte
 
-Hi, I’m Aayush (aka neurobyte) 👋  
-I'm a software developer exploring the overlap between AI, backend systems, and automation.
+Hi there, I’m Aayush (aka neurobyte).  
+I’m a software developer exploring the edge of AI, backend engineering, and developer tooling.
 
-I enjoy building practical tools—things that solve real problems, not just look good on a resume.  
-Most of my current work revolves around AI-powered products, scalable APIs, and developer utilities that align with what top tech companies are building.
-
----
-
-## What I’m Currently Building
-
-### 1. AI-Powered Resume Analyzer
-Parse resumes → Analyze with NLP → Score and recommend improvements.  
-Also matches resumes to job descriptions with % fit scoring.  
-**Tech**: Python, Streamlit, OpenAI API, spaCy
-
-### 2. E-Commerce Backend API
-Modular, production-grade backend: auth, cart, orders, payments, Docker, and Swagger docs.  
-**Tech**: Node.js, PostgreSQL, Redis, Express
-
-### 3. LeetCode Tracker
-Track your problem-solving history, time spent, and topic-wise stats. Includes leaderboard and GitHub sync.  
-**Tech**: MERN / Django + SQLite
-
-### 4. AI Chatbot with Custom Dataset
-Upload PDFs or datasets → Ask questions → Get accurate context-aware replies using GPT or local LLMs.  
-**Tech**: Python, LangChain, Streamlit, ChromaDB
+I'm currently working on projects that combine real-world problem solving with technologies like NLP, LLMs, and scalable web infrastructure. I enjoy turning ideas into polished systems that are practical, usable, and built with care.
 
 ---
 
-## Experimental Projects (Inspired by Big Tech Labs)
+## What I'm Building
 
-These are based on tools/ideas under development in leading companies, often not yet public:
+Here are some of the key projects I'm currently working on or planning:
 
-### 5. Auto-Dev Copilot (Like Amazon CodeWhisperer)
-An in-browser coding assistant that auto-suggests boilerplate code and completes functions based on context.  
-**Tech**: TypeScript, Monaco Editor, GPT-4 API, Codex
-
-### 6. Task-Aware AI Agent (Inspired by Microsoft's AutoGen)
-An agent that auto-creates sub-agents for coding, testing, and documentation based on input.  
-**Tech**: LangChain, Python, Multi-agent workflow, OpenAI Functions
-
-### 7. Smart Interview Question Generator
-Takes job description and resume → Generates company-specific technical + behavioral questions.  
-**Tech**: Python, NLP, Prompt Engineering, Streamlit
-
-### 8. Time-Tracking CLI Tool (Internal Tools Style)
-A simple CLI app to log time, auto-summarize tasks, and generate reports. Think Linear × GitHub activity tracker.  
-**Tech**: Go / Rust, SQLite, Git CLI APIs
-
-### 9. Feedback-Driven UI Generator (Meta AI Internal Research)
-Text → Working React components with minimal design + logic based on user intent.  
-**Tech**: LLMs + TailwindCSS + React + Framer Motion
-
-### 10. Voice-Based Code Navigator (Experimental Dev Tool)
-Navigate your codebase using voice commands like “jump to function X” or “search error logs”.  
-**Tech**: Electron + Whisper ASR + Tree-sitter
+### 1. AI-Powered Resume Analyzer  
+A smart resume analysis tool that scores resumes, suggests improvements, and calculates job description match percentage using NLP and LLMs.  
+**Stack**: Python, Streamlit, OpenAI API, spaCy
 
 ---
 
-## Tech Stack
-
-- **Languages**: Python, JavaScript, TypeScript, SQL  
-- **Backend**: Node.js, Express, Django, FastAPI  
-- **Frontend**: React, TailwindCSS, Streamlit  
-- **Databases**: PostgreSQL, MongoDB, Redis, SQLite  
-- **Dev Tools**: Docker, GitHub Actions, Swagger, Postman  
-- **AI Tools**: OpenAI API, LangChain, spaCy, ChromaDB
+### 2. E-Commerce Backend API  
+A modular backend system with full-stack features like Auth, Cart, Orders, and Payments. Dockerized, documented, and tested.  
+**Stack**: Node.js, Express, PostgreSQL, Redis, Swagger, Docker
 
 ---
 
-## Goals
+### 3. LeetCode Tracker  
+Track your problem-solving on DSA platforms with time logs, tags, analytics, and GitHub integration.  
+**Stack**: MERN / Django + SQLite
 
-- Build a strong AI + backend portfolio targeting MNC-level developer roles
-- Learn by building tools I wish existed
-- Apply to SDE/ML/Backend internships and full-time roles at product-based companies
+---
+
+### 4. AI Chatbot with Custom Dataset  
+Upload a PDF or custom dataset and ask context-based questions via GPT-powered chatbot.  
+**Stack**: Python, LangChain, OpenAI, Streamlit
+
+---
+
+### 5. Auto Cover Letter Generator *(Inspired by Rezi.ai)*  
+An LLM-powered tool that generates tailored cover letters for job applications using your resume + job description.  
+**Stack**: Python, OpenAI API, Streamlit
+
+---
+
+### 6. DevOps Feedback Dashboard *(Inspired by GitHub Copilot Metrics)*  
+Visualize productivity and code quality feedback from your GitHub commits, PRs, and workflows using ML.  
+**Stack**: Python, GitHub API, React, SQLite
+
+---
+
+### 7. Context-Aware Code Reviewer *(Inspired by Amazon CodeWhisperer)*  
+Auto-analyze pull requests using LLMs to flag issues, suggest changes, and highlight logic inconsistencies.  
+**Stack**: Node.js, GPT-4 API, GitHub Actions
+
+---
+
+### 8. Smart Meeting Notes + Action Items Extractor *(Inspired by Microsoft Copilot)*  
+Drop a Zoom or Teams transcript and get summarized notes with decisions, next steps, and deadlines extracted.  
+**Stack**: Python, NLTK, LangChain, Streamlit
+
+---
+
+### 9. AI-Powered Tech Blog Generator *(Inspired by OpenAI's use cases)*  
+Convert a topic or paper into a clean, SEO-optimized blog post or explainer with citations and code examples.  
+**Stack**: Python, GPT-4, Markdown, Flask
+
+---
+
+### 10. Instant REST API Generator from DB Schema *(Inspired by Supabase)*  
+Paste a SQL schema and get a secure, documented REST API instantly—with Swagger, auth, and tests.  
+**Stack**: Node.js, Express, Prisma, PostgreSQL
+
+---
+
+## Tech I Work With
+
+**Languages**  
+Python · JavaScript · TypeScript · SQL
+
+**Frameworks**  
+Node.js · Express · Django · LangChain · Streamlit · Flask
+
+**Databases**  
+PostgreSQL · MongoDB · Redis · SQLite
+
+**Tools & DevOps**  
+Docker · GitHub Actions · Swagger · Postman · Vercel
+
+---
+
+## About Me
+
+- Focused on solving practical problems using modern technologies
+- Building tools that merge AI + engineering with developer experience
+- Preparing for full-time SWE roles at top MNCs
+- Always learning by building and shipping projects
 
 ---
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- Portfolio: [your-portfolio.site](https://your-portfolio.site)  
-- Email: your.email@example.com
+- 📫 Email: your.email@example.com  
+- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- 🌐 Portfolio: [your-portfolio.site](https://your-portfolio.site)
 
 ---
 
-> *"I believe the best way to learn is by building things that matter."*
+> *“I believe the best way to learn is by building things that matter.”*
+
