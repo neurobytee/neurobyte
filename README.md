@@ -1,71 +1,34 @@
-<h1 align="center">neurobyte</h1>
-<p align="center">
-  <i>Exploring the intersection of AI, backend systems, and developer productivity.</i>
-</p>
+# neurobyte
+
+Hi, I’m Aayush (aka neurobyte) 👋  
+I'm a software developer exploring the overlap between AI, backend systems, and automation.
+
+I enjoy building practical tools—things that solve real problems, not just look good on a resume.  
+Most of my current work revolves around AI-powered products, scalable APIs, and developer utilities that align with what top tech companies are building.
 
 ---
 
-## About Me
+## What I’m Currently Building
 
-- Currently building AI-powered tools and scalable backend systems
-- Focused on Artificial Intelligence, NLP, Backend Engineering, and DevOps
-- Working toward software engineering roles in leading global companies
-- Building real-world projects that bridge academic concepts and industry demands
-- Contributor to open-source, research-backed applications, and ML frameworks
+### 1. AI-Powered Resume Analyzer
+Parse resumes → Analyze with NLP → Score and recommend improvements.  
+Also matches resumes to job descriptions with % fit scoring.  
+**Tech**: Python, Streamlit, OpenAI API, spaCy
 
----
+### 2. E-Commerce Backend API
+Modular, production-grade backend: auth, cart, orders, payments, Docker, and Swagger docs.  
+**Tech**: Node.js, PostgreSQL, Redis, Express
 
-## Tech Stack
+### 3. LeetCode Tracker
+Track your problem-solving history, time spent, and topic-wise stats. Includes leaderboard and GitHub sync.  
+**Tech**: MERN / Django + SQLite
 
-**Languages**  
-Python · JavaScript · TypeScript · SQL
-
-**Frameworks & Tools**  
-Node.js · Express · Django · LangChain · Streamlit · Flask
-
-**Databases**  
-PostgreSQL · MongoDB · Redis · SQLite
-
-**DevOps & Infra**  
-Docker · Git · Swagger · Postman · GitHub Actions
+### 4. AI Chatbot with Custom Dataset
+Upload PDFs or datasets → Ask questions → Get accurate context-aware replies using GPT or local LLMs.  
+**Tech**: Python, LangChain, Streamlit, ChromaDB
 
 ---
 
-## Featured Projects
+## Experimental Projects (Inspired by Big Tech Labs)
 
-### [AI-Powered Resume Analyzer](https://github.com/neurobyte/resume-analyzer-ai)  
-A smart tool that parses resumes, evaluates match percentage against job descriptions, and offers AI-generated improvement suggestions.  
-**Stack**: Python, NLP, OpenAI API, Streamlit
-
-### [E-Commerce Backend API](https://github.com/neurobyte/ecommerce-backend)  
-Production-grade backend API with authentication, cart management, order processing, and payment integration. Includes Swagger documentation and Docker setup.  
-**Stack**: Node.js, Express, PostgreSQL, Redis
-
-### [LeetCode Tracker](https://github.com/neurobyte/leetcode-tracker)  
-Tracks DSA practice with analytics, difficulty ratings, time spent, and GitHub leaderboard integration.  
-**Stack**: MERN or Django + SQLite
-
-### [AI Chatbot with Custom Data](https://github.com/neurobyte/custom-ai-chatbot)  
-A context-aware chatbot capable of answering questions from custom PDF or dataset input.  
-**Stack**: Python, LangChain, Streamlit, OpenAI API
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neurobyte&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neurobyte&theme=default" alt="GitHub Streak" />
-</p>
-
----
-
-## Contact
-
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- Portfolio: [your-portfolio.site](https://your-portfolio.site)
-- Email: your.email@example.com
-
----
-
-<p align="center"><i>“Great engineering begins with great curiosity.”</i></p>
+These are based on tools/ideas under development in leading companies, often not yet public:
